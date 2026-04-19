@@ -1,0 +1,39 @@
+MERN
+M: MongoDB 
+E: Express.js 
+R: React 
+N: Node.js
+
+React for Frontend (Client Side)
+Node.js and Express.js for Backend (Server Side)
+MongoDB for Database Management
+
+Terms: Rendered
+
+-Frontend
+--So frontend is the visual interface to which an user interact with, responsible for presenting information and taking users input.
+--It is divided into 3 parts or we can say tech HTML(Structuring), CSS(Styling), Javascript(Interactive)
+--Morden Frameworks like React, Angular, Vue.js are all built upon on JavaScript
+--React allow us to create reusable UI components, manage application state effectively, and build highly ineteractive and performant Single Page Applications (SPA).
+
+-Backend
+--It powers the Frontend, Manage Business Logic, Data Processing, Server Management, and communicate with the database.
+--For the backend, we will be using Node.js, a JavaScript runtime environment that allows us to run JavaScript code on the server. 
+Paired with the Express.js framework, Node.js provides a robust and efficient platform for building web servers and APIs. 
+This allows developers to use JavaScript across the entire stack, simplifying development and improving code consistency.
+
+-Database
+--It is used to store data for application use.
+--We will be using MongoDB a NoSQL database for storing complex data format and scalablity.
+
+Frontend: React
+Backend: Node.js, Express.js
+Database: MongoDB
+Styling: Tailwind CSS
+Routing: React Router
+State Management: Redux Toolkit (introduced as an option for complex state)
+API Interaction: Axios
+Authentication: JWT (JSON Web Tokens)
+Development Tools: VS Code, npm/yarn, Git, Browser Developer Tools, Postman/Insomnia
+
+                  
